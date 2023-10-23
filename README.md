@@ -6,13 +6,6 @@ Determining the price of a stock is a complex task that depends on various facto
 
 This project focuses on analyzing and comparing the stock prices and revenue of two popular stocks, Tesla and GameStop. Both of these companies have garnered significant attention in recent times for different reasons. Tesla is known for its electric vehicles and innovation in the automobile industry, while GameStop became one of the fastest-rising and popular stocks of the year due to unique market dynamics.
 
-The main objectives of this project are as follows:
-
-1. **Data Extraction:** Extract historical revenue and stock price data for Tesla and GameStop from reliable sources.
-
-2. **Data Visualization:** Build a dashboard to visualize and compare the stock price trends and revenue data for both companies.
-
-3. **Correlation Analysis:** Investigate whether there is a correlation between the stock prices and revenue of these companies.
 
 ## Data Sources
 
