@@ -1,5 +1,5 @@
-# Stock Price vs Revenue Analysis
-
+# [Stock Price vs Revenue Analysis (WebScraping Project)](https://github.com/AdityaDabrase/Web-Scraping/blob/main/Final%20Assignment%20v2.ipynb)
+![](https://github.com/AdityaDabrase/Web-Scraping/blob/main/WS.png)
 Determining the price of a stock is a complex task that depends on various factors, such as revenue, profits, losses, company news, public perception, and future business prospects. An essential aspect of stock pricing is the company's growth in profit and revenue. If a company reports good profits and revenue, the stock price is expected to increase, while poor financial results may lead to a decrease in stock price.
 
 ## Project Overview
